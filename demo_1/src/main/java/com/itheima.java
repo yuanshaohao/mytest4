@@ -5,5 +5,6 @@ public class itheima {
         System.out.println("aaaa");
         System.out.println("bbbb");
         System.out.println("dddd");
+        System.out.println("1111");
     }
 }
